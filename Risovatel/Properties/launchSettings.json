@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RefactorMe": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\tereg\\Documents\\ProjectsVS\\Risovatel"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\tereg\Documents\ProjectsVS\LINQ\LINQ\obj\Debug\LINQ.pdb
